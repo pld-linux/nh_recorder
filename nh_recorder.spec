@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://www.itp.uni-hannover.de/~dennha/nh_recorder/%{name}-%{version}.sources.tar.gz
+# Source0-md5:	ecf7b10eadc2dd53385137bb44979c38
 URL:		http://www.itp.uni-hannover.de/~dennha/nh_recorder/readme.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
