@@ -35,8 +35,8 @@ dwa narzêdzia mo¿esz ponownie obejrzeæ swoje ulubione sesje Nethacka.
 
 %install
 rm -rf $RPM_BUILD_ROOT
-
 install -d $RPM_BUILD_ROOT%{_bindir}
+
 install nh_{player,recorder} $RPM_BUILD_ROOT%{_bindir}
 
 %clean
