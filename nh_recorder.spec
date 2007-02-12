@@ -1,5 +1,5 @@
 Summary:	script(1) on sterides
-Summary(pl):	script(1) na sterydach
+Summary(pl.UTF-8):   script(1) na sterydach
 Name:		nh_recorder
 Version:	1.0
 Release:	2
@@ -19,13 +19,13 @@ at different speed or starting from a certain time index. With these
 two programs you can review your favourite Nethack-games. Watch and
 enjoy!
 
-%description -l pl
-Nethackowy nagrywacz ("nh_recorder") pozwala zapisaæ ca³y przebieg gry
-w Nethacka (lub dowolne inne dzia³ania w trybie tekstowym) do pliku.
+%description -l pl.UTF-8
+Nethackowy nagrywacz ("nh_recorder") pozwala zapisaÄ‡ caÅ‚y przebieg gry
+w Nethacka (lub dowolne inne dziaÅ‚ania w trybie tekstowym) do pliku.
 
-Nethackowy odtwarzacz ("nh_player") odtwarza te pliki z ró¿nymi
-prêdko¶ciami, lub/i zaczynaj±c od zadanego miejsca. Wykorzystuj±c te
-dwa narzêdzia mo¿esz ponownie obejrzeæ swoje ulubione sesje Nethacka.
+Nethackowy odtwarzacz ("nh_player") odtwarza te pliki z rÃ³Å¼nymi
+prÄ™dkoÅ›ciami, lub/i zaczynajÄ…c od zadanego miejsca. WykorzystujÄ…c te
+dwa narzÄ™dzia moÅ¼esz ponownie obejrzeÄ‡ swoje ulubione sesje Nethacka.
 
 %prep
 %setup -q
