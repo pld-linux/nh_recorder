@@ -1,5 +1,5 @@
 Summary:	script(1) on sterides
-Summary(pl.UTF-8):   script(1) na sterydach
+Summary(pl.UTF-8):	script(1) na sterydach
 Name:		nh_recorder
 Version:	1.0
 Release:	2
